@@ -4,5 +4,5 @@
 ## Architecture
  Pipeline of ARBEx.
 <p align="center">
-  <img src="images/Figure1-1.png" width="700"/>
+  <img src="images/Figure1.png" width="700"/>
 </p>
