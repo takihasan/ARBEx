@@ -4,5 +4,5 @@
 ## Architecture
 Modified POSTER_V2 followed by anchor label correction network.
 <p align="center">
-  <img src="images/architecture.PNG" width="700"/>
+  <img src="images/Figure1.pdf" width="700"/>
 </p>
