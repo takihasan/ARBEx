@@ -2,7 +2,7 @@
 ### Azmine Toushik Wasi*, Raima Islam*, Karlo Serbetar*, Taki Hasan Rafi*, and Dong-Kyu Chae
 
 ## Architecture
-Modified POSTER_V2 followed by anchor label correction network.
+ Pipeline of ARBEx.
 <p align="center">
   <img src="images/Figure1.PNG" width="700"/>
 </p>
