@@ -11,6 +11,7 @@
 Results on AffWild2 dataset.
 
 | Method   | F1   |
+|----------|------|
 | POSTER++ | 0.31 |
 | CFER     | 0.35 |
 
@@ -28,5 +29,5 @@ python train.py
 ```
 
 ## References
-[POSTER_V2](https://github.com/talented-q/poster_v2)
+[POSTER_V2](https://github.com/talented-q/poster_v2) \
 [ViT](https://github.com/huggingface/pytorch-image-models)
