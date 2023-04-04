@@ -9,6 +9,7 @@
 
 ## Results
 Results on AffWild2 dataset.
+
 | Method   | F1   |
 | POSTER++ | 0.31 |
 | CFER     | 0.35 |
