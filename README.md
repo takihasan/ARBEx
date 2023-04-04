@@ -7,14 +7,6 @@
   <img src="Images/Figure.PNG" width="700"/>
 </p>
 
-## Results
-Results on AffWild2 dataset.
-
-| Method   | F1   |
-|----------|------|
-| POSTER++ | 0.31 |
-| CFER     | 0.35 |
-
 ## Setup and run
 Put pretrained `ir50.pth` and `mobilefacenet.pth` into `cfer/models/pretrained`.
 By default, data is assumed to be in `../../_DATA`.
