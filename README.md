@@ -1,6 +1,6 @@
 # [ARBEx: Attentive Feature Extraction with Reliability Balancing for Robust Facial Expression Learning](https://arxiv.org/abs/2305.01486)
 ### Azmine Toushik Wasi*, Karlo Serbetar*, Raima Islam*, Taki Hasan Rafi*, and Dong-Kyu Chae
-#### Read the Paper : https://arxiv.org/abs/2305.01486
+#### Read the Paper : [ARBEx in arxiv](https://arxiv.org/abs/2305.01486)
 
 ---
 ### State-of-the-Art results in multiple datasets as per [Papers with Code](https://paperswithcode.com/paper/arbex-attentive-feature-extraction-with)
