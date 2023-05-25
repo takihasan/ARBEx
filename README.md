@@ -27,6 +27,10 @@ To run the training script:
 ```
 python train.py
 ```
+
+## Working Principle
+[![Watch the video](Images/ARBEx.png)](https://youtu.be/I4HxYUhVd18)
+
 ## Citation
 ```
 @misc{wasi2023arbex,
