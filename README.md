@@ -17,7 +17,7 @@
 
 ## Setup and run
 Put pretrained `ir50.pth` and `mobilefacenet.pth` into `arbex/models/pretrained`.
-By default, data is assumed to be in `../../_DATA`.
+By default, data is assumed to be in `../../_DATA`. The code assumes `AffWild2` as the default dataset here. If you intend to use other datasets, you may need to make certain changes in the data loading process, in `arbex/data.py`.
 To change the default paths, change `DIR_IMG`, `DIR_ANN_TRAIN`, `DIR_ANN_DEV` in `arbex/config.py`
 To install the dependencies run:
 ```
